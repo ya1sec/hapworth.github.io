@@ -1,0 +1,143 @@
+body {
+  background-color: black;
+
+}
+
+
+h1{
+  font-family: oroban;
+}
+div {
+  position: relative;
+}
+
+#content-container {
+
+  display: block;
+  position: inherit;
+  margin: inherit;
+  top: 80px;
+  left: 56px;
+  width: auto;
+  color: white;
+}
+
+#descriptive-text {
+
+  display: block;
+  position: inherit;
+  margin: auto;
+  width: 500px;
+  height: 200px;
+  line-height: 12px;
+  text-align: center;
+  color: white;
+
+}
+
+#descriptive-head {
+
+  display: block;
+  position: inherit;
+  margin: auto;
+  width: 500px;
+  height: inherit;
+  text-align: center;
+  color: white;
+
+}
+
+
+#submissions {
+
+  display: block;
+  position: inherit;
+  margin: auto;
+  width: auto;
+  line-height: 15px;
+  color: white;
+}
+
+#email {
+
+  display: block;
+  position: inherit;
+  margin: auto;
+  width: auto;
+  height: 200px;
+  line-height: 15px;
+  color: white;
+}
+
+#mailbox {
+
+  display: block;
+  position: inherit;
+  margin: auto;
+  width: auto;
+  line-height: 15px;
+  color: white;
+}
+
+#footer{
+
+  display: block;
+  position: inherit;
+  margin: auto;
+  height: inherit;
+  text-align: right;
+  color: white;
+}
+
+
+
+
+
+
+.hapworthfont{
+    font-family: Oroban;
+    font-size: 55px;
+    text-align: center;
+
+
+}
+
+.font2{
+    font-family: helvetica;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.font3{
+    font-family: oroban;
+    font-size: 15px;
+}
+
+.font4{
+    font-family: Inferi;
+    font-size: 15px;
+
+}
+
+.font5{
+    font-family: oroban;
+    font-size: 30px;
+
+}
+
+.wingdings{
+    font-family: wingdings;
+    font-size: 30px;
+
+}
+
+.foot{
+    font-family: oroban;
+    font-size: 15px;
+
+}
+p{
+  font-family: Inferi;
+  font-size: 50px;
+}
